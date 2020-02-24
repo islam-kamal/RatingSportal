@@ -1,6 +1,6 @@
 # RatingSportal
 
-A new Flutter application.
+Flutter application enable user to rate all players in sport games
 
 ## Getting Started
 
